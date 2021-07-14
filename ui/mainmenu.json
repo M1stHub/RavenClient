@@ -12,18 +12,6 @@
             "alignment" : "top_left"
         },
 
-        "logo":
-        {
-           "image" : "web:https://raw.githubusercontent.com/xAentix/RavenClient/main/ui/logo.png",
-            "posX" : 77,
-            "posY" : 15,
-            "width" : 40,
-            "height" : 40,
-            "imageWidth" : 40,
-            "imageHeight" : 40,
-            "alignment" : "top_left"
-        },
-
         "profile": 
         {
             "image" : "web:https://minotar.net/armor/bust/#username#/100.png",
