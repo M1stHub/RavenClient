@@ -4,7 +4,7 @@
 
         "menu":
         {
-            "image" : "web:",
+            "image" : "web:https://raw.githubusercontent.com/xAentix/RavenClient/main/ui/uibar.png",
             "posX" : 25,
             "posY" : -80,
             "width" : 150,
@@ -104,7 +104,7 @@
     {
         "mojang":
         {
-            "text" : "Copyright Mojang AB. Do not distribute!",
+            "text" : "Copyright Raven Client Author Aentix ©",
             "posX" : -198,
             "posY" : -10,
             "color" : -1,
@@ -124,7 +124,7 @@
     
     "other": {
         "background": {
-			"image": "web:"
+			"image": "web:https://raw.githubusercontent.com/xAentix/RavenClient/main/ui/main_menu.jpg"
 		}
     }
 }
