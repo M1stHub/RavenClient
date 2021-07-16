@@ -1,0 +1,313 @@
+[
+    {
+        "id": "ctjs",
+        "code": "chattriggers",
+        "nicknames": [
+            "ctjs",
+            "chattriggers"
+        ]
+    },
+    {
+        "id": "neu",
+        "code": "moulberry",
+        "partner": true,
+        "fancyname": "Moulberry's Bush",
+        "description": "The official Discord server for all of Moulberry's mods, including NotEnoughUpdates.",
+        "icon": "neu.png",
+        "nicknames": [
+            "neu",
+            "moulberry",
+            "sbcustommobtex",
+            "mb",
+            "moulberrysbush",
+            "insomnia",
+            "antidreamskin",
+            "hudcaching"
+        ],
+        "mods": [
+            "neu",
+            "sbcustommobtex",
+            "antidreamskin",
+            "sbhud",
+            "hudcaching"
+        ]
+    },
+    {
+        "id": "dungeonsguide",
+        "code": "dg",
+        "fancyname": "DungeonsGuide",
+        "description": "The official discord server for the Dungeons Guide mod.\nDungeons Guide is an incredibly advanced dungeons mod.",
+        "icon": "dungeonsguide.png",
+        "partner": true,
+        "nicknames": [
+            "dg",
+            "dungeonsguide"
+        ],
+        "mods": [
+            "dungeonsguide"
+        ]
+    },
+    {
+        "id": "evergreenhud",
+        "code": "AJv5ZnNT8q",
+        "fancyname": "isXander's Hangout",
+        "description": "The official discord for isXander.",
+        "icon": "isxander.png",
+        "nicknames": [
+            "evergreen",
+            "xander",
+            "isxander"
+        ],
+        "mods": [
+            "evergreenhud"
+        ]
+    },
+    {
+        "id": "sba",
+        "code": "qBkzcgdPqU",
+        "nicknames": [
+            "skyblockaddons",
+            "biscuit",
+            "bb",
+            "sba"
+        ],
+        "mods": [
+            "sba"
+        ]
+    },
+    {
+        "id": "apec",
+        "fancyname": "Apec",
+        "description": "Apec is a Minecraft mod that improves the in-game GUI to better suit Hypixel Skyblock and gives it a cleaner look.",
+        "code": "HyvcR9a3x9",
+        "partner": true,
+        "icon": "apec.png",
+        "mods": [
+            "apec"
+        ],
+        "nicknames": [
+            "apec"
+        ]
+    },
+    {
+        "id": "cowlection",
+        "fancyname": "Cowshed",
+        "description": "Cowshed is the place for latest Hypixel SkyBlock news, leaks and update discussions, and the home of the Minecraft Mod Cowlection.",
+        "code": "KRq5ZY9Hma",
+        "partner": true,
+        "icon": "cowlection.webp",
+        "mods": [
+            "cowlection"
+        ],
+        "nicknames": [
+            "cowlection",
+            "cow",
+            "cowshed"
+        ]
+    },
+    {
+        "id": "dsm",
+        "code": "BUmywXX47M",
+        "partner": true,
+        "description": "DSM makes a cool Skyblock mod with lots of solvers",
+        "fancyname": "Dankers Skyblock Mod",
+        "icon": "dsm.webp",
+        "nicknames": [
+            "dankers",
+            "dsm"
+        ],
+        "mods": [
+            "dankers"
+        ]
+    },
+    {
+        "id": "fsr",
+        "code": "tXxeBkF7Er",
+        "partner": true,
+        "fancyname": "FurfSky Reborn",
+        "description": "A nice community to improve your art skills or just hang. Whether you're a seasoned pixel artist, a beginner or you've never touched a pixel we're confident you'll find your place here! Check out their server to download the FurfSky Reborn pack and to ask any questions!",
+        "icon": "fsr.gif",
+        "nicknames": [
+            "furfsky",
+            "fsr",
+            "furfskyreborn"
+        ],
+        "packs": [
+            "fsr"
+        ]
+    },
+    {
+        "id": "rnbw",
+        "code": "dcdsnvG4Q4",
+        "partner": true,
+        "fancyname": "RNBW+ Resource Pack Official",
+        "description": "The official discord for the RNBW+ discord",
+        "icon": "rnbw_hq.png",
+        "packs": [
+            "rnbw"
+        ],
+        "nicknames": [
+            "rnbw"
+        ]
+    },
+    {
+        "id": "sk1ersupport",
+        "code": "d4KFR9H",
+        "nicknames": [
+            "sk1erbeta",
+            "sk1erhelp",
+            "sk1ersupport"
+        ]
+    },
+    {
+        "id": "skytils",
+        "code": "dQJR2rhkmK",
+        "fancyname": "Skytils",
+        "description": "A Skyblock Utilities mod that has all of the features that SkyblockExtras has, but free.",
+        "icon": "st.png",
+        "partner": true,
+        "nicknames": [
+            "st",
+            "skytils",
+            "simpletogglesprint"
+        ],
+        "mods": [
+            "skytils"
+        ]
+    },
+    {
+        "id": "optifine",
+        "code": "xGVXsgbbSt",
+        "nicknames": [
+            "optifine",
+            "of"
+        ],
+        "mods": [
+            "optifine"
+        ]
+    },
+    {
+        "id": "sbp",
+        "code": "KsqMmBdNBE",
+        "nicknames": [
+            "skyblockpersonalized",
+            "sbp"
+        ],
+        "mods": [
+            "sbp"
+        ]
+    },
+    {
+        "id": "motors",
+        "code": "uxmruk7rtp",
+        "fancyname": "Motor's Garage",
+        "description": "Motor's Packs is the place to download ActuallyAssets and other packs by Motor, featured in SkyClient.",
+        "partner": true,
+        "icon": "motors.webp",
+        "nicknames": [
+            "motors",
+            "actuallyassets",
+            "dwarvenassets",
+            "actuallymobs",
+            "actuallypackets",
+            "aa"
+        ],
+        "packs": [
+            "actuallyassets",
+            "actuallymobs",
+            "actuallymobpacket"
+        ]
+    },
+    {
+        "id": "sbov",
+        "code": "BcVQUcM6mM",
+        "fancyname": "Skyblock Overhaul",
+        "description": "Hypixel Skyblock has a variety of swords, bows and tools. The Skyblock Overhaul Revamped pack will include completely overhauled textures of the items in Skyblock, and bring life to the textures with intricate designs and colour!",
+        "partner": true,
+        "icon": "sbov.png",
+        "nicknames": [
+            "skyblockoverhaul",
+            "sbov"
+        ],
+        "packs": [
+            "skyblockoverhaul"
+        ]
+    },
+    {
+        "id": "wab",
+        "code": "BtAYyxf3W8",
+        "partner": true,
+        "icon": "wab.webp",
+        "fancyname": "Worlds and Beyond",
+        "description": "A texturepack with unique textures for skyblock items, swords, bows, armors, everything! (Not everything is finished but most are) It also includes a revamped vanilla GUI as well to spice up your gameplay.",
+        "nicknames": [
+            "wab",
+            "worldsandbeyond"
+        ]
+    },
+    {
+        "id": "phq",
+        "code": "xqEhtq88b7",
+        "fancyname": "Packs HQ",
+        "description": "The Creator of the first and most well know Hypixel Skyblock texturepack",
+        "nicknames": [
+            "packshq"
+        ],
+        "packs": [
+            "hq32f",
+            "hq16f",
+            "hqdark"
+        ]
+    },
+    {
+        "id": "sk1er",
+        "code": "sk1er",
+        "fancyname": "Sk1er Discord",
+        "description": "Sk1er's Discord server",
+        "nicknames": [
+            "patcher",
+            "keystrokes",
+            "tnttime",
+            "sk1er",
+            "popup_events",
+            "scrollabletooltips",
+            "soundsubtitles"
+        ],
+        "mods": [
+            "patcher",
+            "keystrokes",
+            "scrollabletooltips",
+            "tnttime",
+            "popup_events",
+            "soundsubtitles"
+        ]
+    },
+    {
+        "id": "risk",
+        "code": "7B5RbsArYK",
+        "icon": "drm.png",
+        "fancyname": "Dungeon Rooms Discord",
+        "description": "The official Discord server for the Dungeon Rooms Mod!",
+        "nicknames": [
+            "_risk",
+            "risk",
+            "dungeonrooms"
+        ],
+        "mods": [
+            "dungeonrooms"
+        ]
+    },
+    {
+        "id": "nameless",
+        "code": "XXxSuX8VMX",
+        "icon": "nameless big.png",
+        "fancyname": "Nameless is a new Skyblock pack that aims to retexture every item in Skyblock in a fresh, unique style.",
+        "nicknames": [
+            "nameless",
+            "smolegit"
+        ],
+        "packs": [
+            "nameless"
+        ]
+    }
+]

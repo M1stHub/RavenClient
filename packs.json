@@ -1,0 +1,37 @@
+[
+    {
+        "id": "mobpacket",
+        "file": "Mob Packet 1.8.9 1.4.zip",
+        "display": "Mob Packet",
+        "description": "The resource pack that adds textures to most of the custom Skyblock mobs!",
+        "enabled": true,
+        "icon": "mob packet.png",
+        "creator": "Viska & Mira_23",
+        "categories": [
+            "3;Mobs"
+        ],
+        "actions": [
+            {
+                "method": "hover",
+                "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/mobpacket.md"
+            },
+            {
+                "text": "Forum",
+                "link": "https://hypixel.net/threads/3606096/"
+            }
+        ]
+    },
+    {
+        "id": "actuallymobpacket",
+        "file": "ActuallyPacketsv0.1.zip",
+        "display": "ActuallyPacket v0.1",
+        "description": "Branch of Mob Packet with ActuallyMobs textures.",
+        "icon": "actuallyassets.png",
+        "creator": "Motor",
+        "discordcode": "ABHrh6K3Fh",
+        "categories": [
+            "3;Mobs",
+            "6;ActuallyAssets"
+        ]
+    }
+]
