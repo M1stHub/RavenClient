@@ -1,17 +1,17 @@
 {
    "tags": {
-     "aentix":["&c[Owner of &5Raven"], 
-     "eternal":["&1[Co-Owner of &5Raven"],
-     "ivanko_":["&6[Helper of &5Raven"]
+      "cringe":["Test"],
+      "Booster":["Test"],
+      "micro": ["Test"]
    },
    "perms": {
-      "aentix": [
-         "e901c39ab38d401abece3e0f23c94b59"	
+      "cringe": [
+         "e901c39ab38d401abece3e0f23c94b59"
       ],
-      "eternal": [
+      "Booster": [
          "6308d69cb6734b20bf2d9d45aea61fc3"
       ],
-      "ivanko_": [
+      "micro": [
          "cd06ad0b3e944b03b7700c3e9d144594"
       ]
    },
